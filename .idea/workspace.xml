@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac2930b4-5665-44ec-8650-eedeb3049ac3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/chainofresponsibility/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/chainofresponsibility/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/chainofresponsibility/Bitcoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/chainofresponsibility/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/command/OpenTextFileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/command/SaveTextFileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/command/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/command/TextFileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/command/TextFileOperationExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/mediator/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/mediator/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/mediator/PowerSupply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/observer/BBCNewsAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/observer/BBCNewsChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/observer/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/observer/NewsAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/observer/NewsAgencyObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/observer/NewsChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/behavioral/observer/NewsChannelObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/Carpenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/DoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/IDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/IDoorFittingExpert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/IronDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/IronDoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/Welder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/WoodenDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/abstractfactory/WoodenDoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/builder/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/builder/BurgerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/factory/DesignManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/factory/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/factory/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/factory/EngineeringManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/factory/HiringManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/factory/Interviewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/singleton/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/adapter/AfricanLion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/adapter/AsianLion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/adapter/Hunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/adapter/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/adapter/WildDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/adapter/WildDogAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/AquaTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/Career.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/DarkTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/LightTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/Theme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/bridge/WebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/decorator/ChristmasTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/decorator/ChristmasTreeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/decorator/DecorateWIthBubbleLights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/muathendirangu/structural/decorator/XmasTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-patterns-for-human/com/muathendirangu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-patterns-for-human/com/muathendirangu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-patterns-for-human/com/muathendirangu/factory/Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-patterns-for-human/com/muathendirangu/factory/DoorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-patterns-for-human/com/muathendirangu/factory/WoodenDoor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/muathendirangu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/muathendirangu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/muathendirangu/factory/Door.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/muathendirangu/factory/DoorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/simplefactory/DoorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/muathendirangu/factory/WoodenDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/muathendirangu/creational/simplefactory/WoodenDoor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WNejBdClXUc8OS9jhTyKDezek3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.muathendirangu.behavioral.chainofresponsibility" />
+      <recent name="com.muathendirangu.creational" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.muathendirangu.Main" />
+      <module name="design-patterns-for-human" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac2930b4-5665-44ec-8650-eedeb3049ac3" name="Default Changelist" comment="" />
+      <created>1578994612113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578994612113</updated>
+      <workItem from="1578994616616" duration="642000" />
+      <workItem from="1578995394918" duration="35616000" />
+      <workItem from="1579508604554" duration="8676000" />
+      <workItem from="1579528975073" duration="38000" />
+      <workItem from="1579529039597" duration="1077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="336" width="586" height="433" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579014137215">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="667" y="336" width="586" height="433" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1579014137215" />
+    <state x="768" y="255" width="374" height="595" key="#com.intellij.ide.util.MemberChooser" timestamp="1579527945996">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="768" y="255" width="374" height="595" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1579527945996" />
+    <state x="693" y="324" width="524" height="459" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579251260154">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="693" y="324" width="524" height="459" key="#com.intellij.ide.util.PackageChooserDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1579251260154" />
+    <state x="721" y="444" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579251262000">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="721" y="444" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.28.1920.1052@0.28.1920.1052" timestamp="1579251262000" />
+    <state width="1856" height="248" key="GridCell.Tab.0.bottom" timestamp="1579518629671">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="248" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1579518629671" />
+    <state width="1856" height="248" key="GridCell.Tab.0.center" timestamp="1579518629671">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="248" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1579518629671" />
+    <state width="1856" height="248" key="GridCell.Tab.0.left" timestamp="1579518629670">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="248" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1579518629670" />
+    <state width="1856" height="248" key="GridCell.Tab.0.right" timestamp="1579518629671">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="248" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1579518629671" />
+    <state x="456" y="189" key="SettingsEditor" timestamp="1579528941700">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="456" y="189" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1579528941700" />
+    <state x="624" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1579529043880">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="624" y="378" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1579529043880" />
+    <state x="623" y="255" key="search.everywhere.popup" timestamp="1579168892669">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="623" y="255" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1579168892669" />
+  </component>
+</project>
